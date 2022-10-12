@@ -12,7 +12,7 @@
 - Laravel、Vue２<br>
 →技術本、動画教材を用いて基本的な使い方を理解<br>
 →動画教材の内容を基に複数のアプリ作成<br>
-→ポートフォリオ作成
+→[ポートフォリオ作成](https://github.com/HuntingRathalos/portfolio)
 
 ### ■現在勉強していること
 - Vue３<br>
