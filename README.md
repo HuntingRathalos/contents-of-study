@@ -5,7 +5,7 @@
 - HTML/CSS、JavaScript<br>
 →動画教材、技術本を用いて基礎を理解
 
-- PHP
+- PHP<br>
 →技術本、動画教材を用いてPHPの基本文法を理解<br>
 →動画教材の内容を基にPHP、Apache、Mysqlで掲示板アプリ作成
 
