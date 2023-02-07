@@ -49,6 +49,7 @@
 - 【PHP, MYSQL, Apache】ガチで学びたい人のためのWEB開発の基礎(バックエンド編)
 - PHPからLaravelまで サーバーサイドをとことんやってみよう【初心者から脱初心者へ】【わかりやすさ最重視】
 - 【Laravel】マルチログイン機能を構築し本格的なECサイトをつくってみよう【Breeze/tailwindcss】
+- 【Laravel】【Vue.js3】で【CRM(顧客管理システム)】をつくってみよう【Breeze(Inertia)】
 - 超Vue.js 2 完全パック (Vue Router, Vuex含む)
 - Git： もう怖くないGit！チーム開発で必要なGitを完全マスター
 - AWS：ゼロから実践するAmazon Web Services。手を動かしながらインフラの基礎を習得
