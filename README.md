@@ -53,6 +53,7 @@
 - 超Vue.js 2 完全パック (Vue Router, Vuex含む)
 - Git： もう怖くないGit！チーム開発で必要なGitを完全マスター
 - AWS：ゼロから実践するAmazon Web Services。手を動かしながらインフラの基礎を習得
+- この問題だけで合格可能！AWS 認定クラウドプラクティショナー 模擬試験問題集（6回分390問）
 - 【世界で7万人が受講】Understanding TypeScript 日本語版
 など
 
