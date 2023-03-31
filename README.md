@@ -52,6 +52,7 @@
 - 【Laravel】マルチログイン機能を構築し本格的なECサイトをつくってみよう【Breeze/tailwindcss】
 - 【Laravel】【Vue.js3】で【CRM(顧客管理システム)】をつくってみよう【Breeze(Inertia)】
 - 超Vue.js 2 完全パック (Vue Router, Vuex含む)
+- Vue.js + Firebaseで作るシングルページアプリケーション
 - Git： もう怖くないGit！チーム開発で必要なGitを完全マスター
 - AWS：ゼロから実践するAmazon Web Services。手を動かしながらインフラの基礎を習得
 - この問題だけで合格可能！AWS 認定クラウドプラクティショナー 模擬試験問題集（6回分390問）
