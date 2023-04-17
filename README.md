@@ -51,6 +51,7 @@
 - PHPからLaravelまで サーバーサイドをとことんやってみよう【初心者から脱初心者へ】【わかりやすさ最重視】
 - 【Laravel】マルチログイン機能を構築し本格的なECサイトをつくってみよう【Breeze/tailwindcss】
 - 【Laravel】【Vue.js3】で【CRM(顧客管理システム)】をつくってみよう【Breeze(Inertia)】
+- Laravelシステム開発講座 【AWS PHP 8 Laravel 9 RDS(PostgresSQL)】
 - 超Vue.js 2 完全パック (Vue Router, Vuex含む)
 - Vue.js + Firebaseで作るシングルページアプリケーション
 - Git： もう怖くないGit！チーム開発で必要なGitを完全マスター
